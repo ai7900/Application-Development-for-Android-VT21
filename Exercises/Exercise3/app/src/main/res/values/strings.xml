@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exercise3</string>
+
+    <string name="titles">
+
+    </string>
+
+    <string-array name="genres">
+
+    </string-array>
+
+    <string-array name="authors">
+
+    </string-array>
+
+</resources>

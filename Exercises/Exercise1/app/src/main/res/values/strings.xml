@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Hints -->
+    <string name="hint_web">www.website.com</string>
+    <string name="hint_address">https://yourwebsite.intuitionhq.com</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <!-- Info -->
+    <string name="info_web">Your intuition website name: </string>
+    <string name="info_address">Your intuitionHQ address:</string>
+    <string name="ToU"><b>Terms of Use:</b></string>
+
+    <!-- misc. -->
+    <string name="app_name">Exercise 1</string>
+    <string name="header">Sign up now</string>
+    <string name="rbtn_ToU">I agree to IntuitionHQs <b>Terms of Service</b>.</string>
+    <string name="btn_signUp">Sign Up</string>
+
+</resources>
